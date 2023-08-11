@@ -37,7 +37,6 @@ For AppleTV:
 Issues
 ------
 For any issues or bug reports, please file them at the GitHub issues part of this project:
-https://github.com/andybotting/xbmc-addon-afl-radio/issues
 
 Contact Me
 ----------
